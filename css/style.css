@@ -94,6 +94,10 @@ section > p {
 .title-rules3 {
     margin-top: 50px;
 }
+.item::marker{
+    font-weight: bold;
+    font-size: 20px;
+}
 .item {
     margin-top: 25px;
 }
